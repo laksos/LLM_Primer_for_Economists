@@ -7,3 +7,8 @@ The publication provides an accessible introduction to LLMs aimed at economists 
 **Repository Overview**
 
 Due to restrictions on the proprietary data used in the original research, this repository utilises a different sample dataset from ArXiv, which is open-source and features topics unrelated to the original study. Additionally, to minimise computational demands, we employ smaller datasets and models for illustration purposes. While the procedures outlined below closely mirror the actual analysis, the data, models, examples, and outcomes presented here differ from those in the paper.
+
+## How to Run
+
+To explore the accompanying notebook and reproduce the analysis, you can run the `topicmodelling.ipynb` file on [Google Colab](https://colab.research.google.com/github/llm4econ/LLM_Primer_for_Economists/blob/main/topicmodelling.ipynb). 
+Simply click on the link embedded in the notebook to launch it in Colab, where you can execute the code interactively. 
