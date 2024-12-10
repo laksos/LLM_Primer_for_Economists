@@ -2,7 +2,7 @@
 
 This repository accompanies our paper, **“Large language models: a primer for economists”**, authored by Byeungchun Kwon, Taejin Park, Fernando Perez-Cruz, and Phurichai Rungcharoenkitkul.
 
-The publication provides an accessible introduction to LLMs aimed at economists and offers applied researchers a practical walkthrough of their use. You can access the full paper here: [LINK].
+The publication provides an accessible introduction to LLMs aimed at economists and offers applied researchers a practical walkthrough of their use. You can access the full paper [here](https://www.bis.org/publ/qtrpdf/r_qt2412b.htm).
 
 ## Caution
 
