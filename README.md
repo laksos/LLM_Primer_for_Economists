@@ -12,3 +12,7 @@ Due to restrictions on the proprietary data used in the original research, this 
 
 To explore the accompanying notebook and reproduce the analysis, you can run the [stock_market_analysis.ipynb](https://colab.research.google.com/github/llm4econ/LLM_Primer_for_Economists/blob/main/stock_market_analysis.ipynb) file on Google Colab. 
 Simply click on the link embedded in the notebook to launch it in Colab, where you can execute the code interactively. 
+
+## Disclaimer 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
