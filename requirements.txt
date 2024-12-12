@@ -1,0 +1,11 @@
+requests
+pandas
+matplotlib
+torch
+tqdm
+bertopic
+umap-learn
+hdbscan
+sentence-transformers
+transformers
+gensim
