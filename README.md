@@ -10,8 +10,8 @@ Due to restrictions on the proprietary data used in the original research, this 
 
 ## How to Run
 
-To explore the accompanying notebook and reproduce the analysis, you can run the [stock_market_analysis.ipynb](https://colab.research.google.com/github/llm4econ/LLM_Primer_for_Economists/blob/main/stock_market_analysis.ipynb) file on Google Colab. 
-Simply click on the link embedded in the notebook to launch it in Colab, where you can execute the code interactively. 
+To explore the accompanying notebook and reproduce the analysis, you can run the [stock_market_analysis.ipynb](https://colab.research.google.com/github/bis-med-it/LLM_Primer_for_Economists/blob/main/stock_market_analysis.ipynb) file on Google Colab.
+Simply click on the link embedded in the notebook to launch it in Colab, where you can execute the code interactively.
 
 ## Disclaimer 
 
