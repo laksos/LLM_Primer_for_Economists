@@ -1,4 +1,4 @@
-# Large language models: a primer for economists
+# Large language models: a primer for economists 
 
 This repository accompanies our paper, **“Large language models: a primer for economists”**, authored by Byeungchun Kwon, Taejin Park, Fernando Perez-Cruz, and Phurichai Rungcharoenkitkul.
 
